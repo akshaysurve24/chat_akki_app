@@ -38,14 +38,14 @@ class _LoginDemoState extends State<LoginDemo> {
                 child: Column(
                   children: [
                     Text(
-                      "Sign in",
+                      "BolKon !",
                       style:
                       TextStyle(fontWeight: FontWeight.bold, fontSize: 25),
                     ),
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 11),
                       child: Text(
-                        "Welcome to LinkWork - Task Management.",
+                        "Connet with your peoples.",
                         style: TextStyle(
                             fontWeight: FontWeight.normal,
                             color: Colors.blueGrey,
